@@ -26,7 +26,6 @@ Please review the information in this section before you get started with your d
 * Create a personal fork of the project on Github.
 * Clone the fork on your local machine.
 * Implement your solution and push the test automation codes and test documents to forked repository.
- and the rest of git basics applies.
 * When you are ready, submit the forked repo for review by providing the link to the repo to our recruitment team.
 
 ### Tools
